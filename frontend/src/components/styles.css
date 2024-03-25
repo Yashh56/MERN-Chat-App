@@ -4,3 +4,7 @@
   overflow-y: scroll;
   scrollbar-width: none;
 }
+
+#mychats{
+  background-color: #f1f0f0;
+}
